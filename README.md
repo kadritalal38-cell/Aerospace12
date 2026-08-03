@@ -31,4 +31,8 @@ Embedded control layers manage:
 *Note: For the exact non-Euclidean transformation matrices and simulation algorithms, verified parties may request access to the secured codebase [0.1.1-2].*
 
 ---
-For secure inquiries and NDA vetting, please contact the Chief Inventor.
+
+Contact & Access Requests
+This is a private and restricted repository. If you wish to review the full research, request access, or discuss potential collaboration, please reach out via email:
+
+📩 kadritalal84@gmail.com
